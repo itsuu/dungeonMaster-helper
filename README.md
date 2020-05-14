@@ -1,0 +1,2 @@
+# dungeonMaster-helper
+This is a helper for a dungeon master when playing 1st edition of Dungeons & Dragons. It utilises a given package of classes for chambers, monsters, rooms, doors and more. The package in the src folder contains source Java code utilising the given package.
